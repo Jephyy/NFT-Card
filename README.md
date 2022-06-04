@@ -29,10 +29,10 @@ Users should be able to:
 ### Screenshot
 
 
-![Mobile view](images/nftcard-mobile.png)
+![](images/nftcard-mobile.png)  Mobile view
 
 
-![Desktop view](images/nftcard-desktop.png)
+![](images/nftcard-desktop.png)  Desktop view
 
 ### Links
 
