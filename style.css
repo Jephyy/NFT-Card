@@ -33,7 +33,7 @@ section{
 	margin: auto;
 }
 
-#card:active{
+#card:hover{
 	background: hsl(178, 100%, 50%);
     cursor: pointer;
 
@@ -48,7 +48,7 @@ section{
 .white{
 	color : #fff;
 }
-#main-text:active{
+#main-text:hover{
 	color: hsl(178, 100%, 50%);
     cursor: pointer;
 }
@@ -57,7 +57,7 @@ section{
 	padding-left: 8px;
 }
 
-#username:active{
+#username:hover{
 	color: hsl(178, 100%, 50%) ;
 }
 #user{
