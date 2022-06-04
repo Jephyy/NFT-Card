@@ -28,7 +28,10 @@ Users should be able to:
 
 ### Screenshot
 
+Mobile view
 ![](images/nftcard-mobile.png)
+
+Desktop view
 ![](images/nftcard-desktop.png)
 
 ### Links
